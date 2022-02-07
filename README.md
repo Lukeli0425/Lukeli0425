@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😊 My name is **Tianao Li**, an undergraduate student at [Department of Electronic Engineering, Tsinghua University](https://www.ee.tsinghua.edu.cn/en/). 
+- 😊 My name is ***Tianao Li***, an undergraduate student at [Department of Electronic Engineering, Tsinghua University](https://www.ee.tsinghua.edu.cn/en/). 
 - 💡 I'm profoundly interested in **Optics**, **Computational Imaging** and **Computer Vision**.
 - 🔭 In my free time, I enjoying playing basketball and probing in the world of astronomy.
-- 🏀 I'm a huge fan of the *Golden State Warriors*!
+- 🏀 I'm a huge fan of the ***Golden State Warriors***!
 - 📫 How to reach me: [**Email**](mailto:lta19@mails.tsinghua.edu.cn) | [**CV**](./) | [**GitHub**](https://github.com/Lukeli0425/) | [**LinkedIn**](https://www.linkedin.com/in/tianao-li-596997227/) | [**Bilibili**](https://space.bilibili.com/94808364)
+- 👇 Check out my projects on Github!
