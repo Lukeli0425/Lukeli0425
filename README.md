@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🏀 I'm a also huge fan of the ***Golden State Warriors***!
 - 📫 Contact me: [**Email**](mailto:lta19@mails.tsinghua.edu.cn) | [**LinkedIn**](https://www.linkedin.com/in/tianao-li-596997227/) | [**Instagram**](https://www.instagram.com/bouncyluke/) | [**Bilibili**](https://space.bilibili.com/94808364)
 - 👇 Check out my projects on Github!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425)](https://github.com/anuraghazra/github-readme-stats)
