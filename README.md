@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Lukeli0425/Lukeli0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
