@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![Tianao Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
