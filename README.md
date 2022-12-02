@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukeli0425&repo=VASP)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Lukeli0425/count.svg" />
+</p>
