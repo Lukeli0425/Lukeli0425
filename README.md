@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukeli0425&repo=VASP)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"> 
-  <b>Visitor count</b><br>
+  <b>Visitor Count</b>
   <img src="https://profile-counter.glitch.me/Lukeli0425/count.svg" />
 </p>
