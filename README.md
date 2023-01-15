@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 - 📫 Contact me: [**Email**](mailto:lta19@mails.tsinghua.edu.cn)
 <!-- - 👇 Check out my projects on Github! -->
 
-[![Tianao Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Tianao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)]
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukeli0425&repo=VASP)](https://github.com/anuraghazra/github-readme-stats) -->
 
