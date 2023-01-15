@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Tianao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
