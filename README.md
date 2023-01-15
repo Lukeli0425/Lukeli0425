@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 ![Tianao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&show_icons=true&theme=aura)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeli0425&layout=compact)]
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukeli0425&repo=VASP)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## <center> Visitor Count
 <p align="center"> 
