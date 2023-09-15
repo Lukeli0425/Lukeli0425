@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😊 My name is [**Tianao Li**](https://lukeli0425.github.io), and I am a first-year PhD student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.northwestern.edu).
+- 😊 My name is [**Tianao Li**](https://lukeli0425.github.io), and I am a first-year PhD student in [**Computer Science**](https://www.mccormick.northwestern.edu/computer-science/) at [**Northwestern University**](https://www.northwestern.edu).
   <!-- [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). -->
 - 💡 I'm profoundly interested in **Computational Imaging** and **Computer Vision**.
 - 🔭 In my free time, I enjoying playing basketball and probing in the world of astronomy.
