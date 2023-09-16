@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😊 My name is [**Tianao Li**](https://lukeli0425.github.io), and I'm an undergraduate student at [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+- 😊 My name is [**Tianao Li**](https://lukeli0425.github.io), and I am a first-year PhD student in [**Computer Science**](https://www.mccormick.northwestern.edu/computer-science/) at [**Northwestern University**](https://www.northwestern.edu).
+  <!-- [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). -->
 - 💡 I'm profoundly interested in **Computational Imaging** and **Computer Vision**.
 - 🔭 In my free time, I enjoying playing basketball and probing in the world of astronomy.
 - 🏀 I'm a also huge fan of the ***Golden State Warriors***!
-- 📫 Contact me: [**Email**](mailto:lta19@mails.tsinghua.edu.cn)
+- 📫 Contact me: [**Email**](mailto:tianaoli@u.northwestern.edu)
+  <!-- - 📫 Contact me: [**Email**](mailto:lta19@mails.tsinghua.edu.cn) -->
 <!-- - 👇 Check out my projects on Github! -->
 
 ![Tianao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeli0425&show_icons=true&theme=aura)
